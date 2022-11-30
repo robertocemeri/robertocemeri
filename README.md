@@ -14,4 +14,4 @@ I am confident that my skills and experience would be a great asset to your team
 
 💪🏻 Full Stack Web Developer (Laravel, Vue JS, Tailwind)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertocemeri&show_icons=true&theme=radical)
