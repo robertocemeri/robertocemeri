@@ -8,7 +8,7 @@
 
 I am confident that my skills and experience would be a great asset to your team.
 
-💻 Experienced Web Developer with a demonstrated history of working in the computer software industry. Skilled in : Laravel, Vue.js/React Js, Bootstrap, Tailwind, CSS, C++, SQL, HTML, JavaScript, ASP.net (core/MVC), GIT, Trello
+💻 Experienced Web Developer with skills in : Laravel, Vue.js/React Js, Bootstrap, Tailwind, CSS, C++, SQL, HTML, JavaScript, ASP.net (core/MVC), GIT, Trello, Figma
 
 🏔 In my free time, you can find me at the gym
 
