@@ -12,5 +12,4 @@ I am confident that my skills and experience would be a great asset to your team
 
 🏔 In my free time, you can find me at the gym
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertocemeri)](https://github.com/anuraghazra/github-readme-stats)
 
