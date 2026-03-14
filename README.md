@@ -20,20 +20,6 @@
 
   ---
 
-  ### Experience Highlights
-
-  🔹 **ENTOS LLC / G2Mint** — Building Miles, an AI-powered Transportation Management System (Go, React, GraphQL, AWS)
-
-  🔹 **Greenia SRL** — Spearheading an AI + fintech insurance platform serving thousands of daily users (Laravel, React, OpenAI, n8n)
-
-  🔹 **Engage Technology** — Developed a fintech ticketing system for financial services (Laravel, React)
-
-  🔹 **NIV / Holocron** — Delivered e-commerce platforms and mobile apps including Parz and Migjen.ai
-
-  🔹 **PlanetApp LTD** — Led development of e-commerce and restaurant management systems
-
-  ---
-
   ### Education
 
   🎓 **Master of IT & Communication** — University of Tirana (2021–2023)
@@ -56,4 +42,4 @@
 
   ---
 
-  *Open to freelance opportunities and remote collaborations.*
+ 
