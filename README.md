@@ -2,8 +2,6 @@
 
   **Software Engineer** based in Tirane, Albania — 6+ years building full-stack web applications, cloud-native services, and AI-powered platforms.
 
-  Currently working on **AI-powered freight automation** at G2Mint and building **AI + fintech insurance platforms** at Greenia SRL.
-
   ---
 
   ### What I Work With
