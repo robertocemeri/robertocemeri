@@ -8,19 +8,19 @@
 
   **Languages & Frameworks:** Go · PHP · TypeScript · JavaScript · Laravel · React.js · React Native · Vue.js · Node.js · Symfony · GraphQL
 
-  **Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS, API Gateway, CloudWatch, IAM, VPC) · Docker · Kubernetes · CI/CD · Git
+  **Cloud & DevOps:** AWS (Lambda, S3, API Gateway, CloudWatch, IAM, DynamoDb) · Docker · Git
 
-  **AI & Automation:** OpenAI · n8n · AI Integration
+  **AI & Automation:** OpenAI · n8n · AI Integration, Claude
 
   **Databases:** MySQL · SQL
 
-  **Testing:** Cypress · Storybook · Unit Testing
+  **Testing:** Cypress · Unit Testing
 
   ---
 
   ### Education
 
-  🎓 **Master of IT & Communication** — University of Tirana (2021–2023)
+  🎓 **Master of Science (MSc), IT & Communication** — University of Tirana (2021–2023)
 
   🎓 **Bachelor of IT & Communication** — University of Tirana (2018–2021)
 
