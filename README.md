@@ -6,7 +6,7 @@
 
   ### What I Work With
 
-  **Languages & Frameworks:** Go · PHP · TypeScript · JavaScript · Laravel · React.js · React Native · Vue.js · Node.js · Symfony · GraphQL
+  **Languages & Frameworks:** Go · PHP · TypeScript · JavaScript · Laravel · React.js · Node.js · GraphQL
 
   **Cloud & DevOps:** AWS (Lambda, S3, API Gateway, CloudWatch, IAM, DynamoDb) · Docker · Git
 
@@ -35,7 +35,7 @@
 
   ### Let's Connect
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-cemeri)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertocemeri)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:robertocemeri29@gmail.com)
 
   ---
